@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\ConsoleTeste\\ConsoleTeste\\ConsoleTeste.csproj": {}
+    "C:\\temp\\ConsoleTeste\\consoleteste\\ConsoleTeste.csproj": {}
   },
   "projects": {
-    "C:\\temp\\ConsoleTeste\\ConsoleTeste\\ConsoleTeste.csproj": {
+    "C:\\temp\\ConsoleTeste\\consoleteste\\ConsoleTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\ConsoleTeste\\ConsoleTeste\\ConsoleTeste.csproj",
+        "projectUniqueName": "C:\\temp\\ConsoleTeste\\consoleteste\\ConsoleTeste.csproj",
         "projectName": "ConsoleTeste",
-        "projectPath": "C:\\temp\\ConsoleTeste\\ConsoleTeste\\ConsoleTeste.csproj",
+        "projectPath": "C:\\temp\\ConsoleTeste\\consoleteste\\ConsoleTeste.csproj",
         "packagesPath": "C:\\Users\\rafael.portal\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\ConsoleTeste\\ConsoleTeste\\obj\\",
+        "outputPath": "C:\\temp\\ConsoleTeste\\consoleteste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
