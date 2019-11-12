@@ -6761,11 +6761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ConsoleTeste\\consoleteste\\ConsoleTeste.csproj",
+      "projectUniqueName": "C:\\temp\\ConsoleTeste\\ConsoleTeste\\ConsoleTeste.csproj",
       "projectName": "ConsoleTeste",
-      "projectPath": "C:\\temp\\ConsoleTeste\\consoleteste\\ConsoleTeste.csproj",
+      "projectPath": "C:\\temp\\ConsoleTeste\\ConsoleTeste\\ConsoleTeste.csproj",
       "packagesPath": "C:\\Users\\rafael.portal\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\ConsoleTeste\\consoleteste\\obj\\",
+      "outputPath": "C:\\temp\\ConsoleTeste\\ConsoleTeste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
